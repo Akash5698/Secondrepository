@@ -1,1 +1,2 @@
-Hello, Welocome to git tutorial.
+Hello, Welocome to git tutorial. In next video we will see git add, commit,push command
+
